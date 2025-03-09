@@ -1,0 +1,15 @@
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\bin\Debug\net8.0\ClassLibraryWeather.deps.json
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\bin\Debug\net8.0\ClassLibraryWeather.dll
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\bin\Debug\net8.0\ClassLibraryWeather.pdb
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\ClassLibraryWeather.csproj.AssemblyReference.cache
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\ClassLibraryWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\ClassLibraryWeather.AssemblyInfoInputs.cache
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\ClassLibraryWeather.AssemblyInfo.cs
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\ClassLibraryWeather.csproj.CoreCompileInputs.cache
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\ClassLib.C9372281.Up2Date
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\ClassLibraryWeather.dll
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\refint\ClassLibraryWeather.dll
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\ClassLibraryWeather.pdb
+C:\Users\79226\source\repos\лаб10\ClassLibraryWeather\obj\Debug\net8.0\ref\ClassLibraryWeather.dll
