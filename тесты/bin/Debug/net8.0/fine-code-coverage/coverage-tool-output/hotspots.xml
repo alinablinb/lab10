@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>лаб10</Assembly>
+    <Class>ла610.Program</Class>
+    <MethodName>Main(...)</MethodName>
+    <ShortName />
+    <Line>9</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>60</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>
